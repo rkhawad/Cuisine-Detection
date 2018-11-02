@@ -3,7 +3,7 @@ Formulated a model using classifiers like Multi-class SVMs and deep learning tec
 
 Steps :
 
-- Feature Extraction / Data Pre-processing
+# Feature Extraction / Data Pre-processing
 
 # Implementing the Naive Bayes Algorithm (used as a benchmark)
 # Multi-class SVM
